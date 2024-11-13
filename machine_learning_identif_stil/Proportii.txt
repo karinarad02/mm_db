@@ -1,0 +1,15 @@
+Action_painting - 98
+Analytical_Cubism - 110
+Baroque- 4240
+Color_Field_Painting - 1615
+Early_Renaissance - 1391
+Expressionism - 6736
+Fauvism - 934
+High_Renaissance - 1343
+Impressionism - 13060
+Mannerism_Late_Renaissance - 1279
+Pop_Art - 1483
+Post_Impressionism - 6450
+Romanticism - 7019
+Symbolism - 4528
+Synthetic_Cubism - 216
